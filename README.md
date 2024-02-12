@@ -1,4 +1,4 @@
-Overall Survival Analysis for GBM
+**Overall Survival Analysis for GBM**
 It used Radiomics Score to stratify the patients into low and high-risk groups. To evaluate, Log-Rank test (P_value) and Kaplan-Meier Plot were utilized.
 
 The aim is to use only one modality (T2) and one clinical label (GTV) to stratify patients.
